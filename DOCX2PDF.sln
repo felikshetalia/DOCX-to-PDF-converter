@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCX2PDF", "DOCX2PDF\DOCX2PDF.csproj", "{E4023407-9AAD-4479-A134-CE58F7C537ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4023407-9AAD-4479-A134-CE58F7C537ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4023407-9AAD-4479-A134-CE58F7C537ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4023407-9AAD-4479-A134-CE58F7C537ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4023407-9AAD-4479-A134-CE58F7C537ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D819318D-C9EC-40DA-81C3-387CD331F3DB}
+	EndGlobalSection
+EndGlobal

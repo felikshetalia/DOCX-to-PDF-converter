@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DOCX2PDF.props" />
+</Project>

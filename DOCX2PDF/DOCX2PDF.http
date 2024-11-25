@@ -1,0 +1,6 @@
+@DOCX2PDF_HostAddress = https://localhost:7207
+
+GET {{DOCX2PDF_HostAddress}}/docx2pdf/
+Accept: application/json
+
+###
